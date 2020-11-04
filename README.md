@@ -21,4 +21,4 @@ abc
 
 ##Copyright
 
-abc
+All rights reserved.
